@@ -1,0 +1,5 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\2. Methods\Methods-EX\Problem 04\bin\Debug\Problem 04.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\2. Methods\Methods-EX\Problem 04\bin\Debug\Problem 04.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\2. Methods\Methods-EX\Problem 04\bin\Debug\Problem 04.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\2. Methods\Methods-EX\Problem 04\obj\Debug\Problem 04.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\2. Methods\Methods-EX\Problem 04\obj\Debug\Problem 04.pdb

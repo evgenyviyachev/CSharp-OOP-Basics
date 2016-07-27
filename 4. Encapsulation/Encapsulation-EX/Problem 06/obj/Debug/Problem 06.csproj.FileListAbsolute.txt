@@ -1,0 +1,5 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\4. Encapsulation\Encapsulation-EX\Problem 06\bin\Debug\Problem 06.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\4. Encapsulation\Encapsulation-EX\Problem 06\bin\Debug\Problem 06.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\4. Encapsulation\Encapsulation-EX\Problem 06\bin\Debug\Problem 06.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\4. Encapsulation\Encapsulation-EX\Problem 06\obj\Debug\Problem 06.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\4. Encapsulation\Encapsulation-EX\Problem 06\obj\Debug\Problem 06.pdb

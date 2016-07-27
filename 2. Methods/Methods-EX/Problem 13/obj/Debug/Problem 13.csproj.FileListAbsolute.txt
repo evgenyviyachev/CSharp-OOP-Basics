@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\2. Methods\Methods-EX\Problem 13\bin\Debug\Problem 13.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\2. Methods\Methods-EX\Problem 13\bin\Debug\Problem 13.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\2. Methods\Methods-EX\Problem 13\bin\Debug\Problem 13.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\2. Methods\Methods-EX\Problem 13\obj\Debug\Problem 13.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\2. Methods\Methods-EX\Problem 13\obj\Debug\Problem 13.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\2. Methods\Methods-EX\Problem 13\obj\Debug\Problem 13.pdb

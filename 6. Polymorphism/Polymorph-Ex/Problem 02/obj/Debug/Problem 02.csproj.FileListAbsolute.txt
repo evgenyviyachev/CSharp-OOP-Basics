@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\6. Polymorphism\Polymorph-Ex\Problem 02\bin\Debug\Problem 02.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\6. Polymorphism\Polymorph-Ex\Problem 02\bin\Debug\Problem 02.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\6. Polymorphism\Polymorph-Ex\Problem 02\bin\Debug\Problem 02.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\6. Polymorphism\Polymorph-Ex\Problem 02\obj\Debug\Problem 02.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\6. Polymorphism\Polymorph-Ex\Problem 02\obj\Debug\Problem 02.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\6. Polymorphism\Polymorph-Ex\Problem 02\obj\Debug\Problem 02.pdb

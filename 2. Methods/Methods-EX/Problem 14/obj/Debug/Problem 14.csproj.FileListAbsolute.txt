@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\2. Methods\Methods-EX\Problem 14\bin\Debug\Problem 14.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\2. Methods\Methods-EX\Problem 14\bin\Debug\Problem 14.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\2. Methods\Methods-EX\Problem 14\bin\Debug\Problem 14.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\2. Methods\Methods-EX\Problem 14\obj\Debug\Problem 14.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\2. Methods\Methods-EX\Problem 14\obj\Debug\Problem 14.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\2. Methods\Methods-EX\Problem 14\obj\Debug\Problem 14.pdb

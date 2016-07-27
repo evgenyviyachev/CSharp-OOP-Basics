@@ -1,0 +1,9 @@
+C:\SVN\csharp-oop-basics\June-2016\04. CSharp-OOP-Basics-Encapsulation\04. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+C:\SVN\csharp-oop-basics\June-2016\04. CSharp-OOP-Basics-Encapsulation\04. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.exe
+C:\SVN\csharp-oop-basics\June-2016\04. CSharp-OOP-Basics-Encapsulation\04. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.pdb
+C:\SVN\csharp-oop-basics\June-2016\04. CSharp-OOP-Basics-Encapsulation\04. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.csprojResolveAssemblyReference.cache
+C:\SVN\csharp-oop-basics\June-2016\04. CSharp-OOP-Basics-Encapsulation\04. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.exe
+C:\SVN\csharp-oop-basics\June-2016\04. CSharp-OOP-Basics-Encapsulation\04. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\4. Encapsulation\04. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\4. Encapsulation\04. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Basics\4. Encapsulation\04. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.pdb
